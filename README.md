@@ -17,7 +17,7 @@
 
 ## 🛠 Files Included
 
-- `diary.html` – Main diary interface  
+- `index.html` – Main diary interface  
 - `sw.js` – Service Worker file  
 - `manifest.json` – PWA Manifest file  
 - `icon.png` – App icon  
